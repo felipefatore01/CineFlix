@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="cinema2.css">
+    <link rel="stylesheet" href="cinema1.css">
     <title>Site de Cinema</title>
 </head>
 <body>
@@ -22,7 +22,7 @@
 
 <div class="container">
     <div class="card">
-        <h2>Bem-vindo ao Mundo do Cinema</h2>
+        <h2>Bem-vindo ao CineFlix</h2>
         <p>Explore informações sobre filmes, lançamentos, curiosidades e muito mais.</p>
     </div>
 </div>
@@ -32,7 +32,7 @@
 <img src="https://br.web.img3.acsta.net/c_150_200/img/0a/66/0a66e9dd9ffd5404ff6d3476c16ca000.jpg" alt="">
 </center>
 <footer>
-    © 2025 Mundo do Cinema
+    © 2025 CineFlix
 </footer>
 
 </body>
