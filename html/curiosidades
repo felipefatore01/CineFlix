@@ -1,8 +1,9 @@
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="curiosidades.css">
+    <link rel="stylesheet" href="curiosidades1.css">
     <title>Curiosidades</title>
 </head>
 <body>
@@ -23,18 +24,18 @@ nav>
 <div class="container">
 
     <div class="card">
-        <h2>Curiosidade 1</h2>
-        <p>Fato interessante sobre cinema.</p>
+        <h2>Curiosidade de fnaf 1</h2>
+        <p>O filme parece se inspirar fortemente nos jogos originais, incorporando elementos familiares: animatrônicos clássicos, atmosfera de pizzaria à la “Chuck E. Cheese” e horror sobrenatural.</p>
     </div>
 
     <div class="card">
-        <h2>Curiosidade 2</h2>
-        <p>Outro fato interessante.</p>
+        <h2>Curiosidade de fnaf 2</h2>
+        <p>Para quem gosta de lore mais profunda, o longa tenta unir passado e presente da franquia: há flashbacks para os primórdios da pizzaria, mistérios antigos, e a sensação de que horrores do passado voltaram para assombrar.</p>
     </div>
 
 </div>
 
-<footer>© 2025 Mundo do Cinema</footer>
+<footer>© 2025 CineFlix</footer>
 
 </body>
 </html>
