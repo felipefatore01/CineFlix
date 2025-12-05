@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="filmes2.css">
+    <title>Filmes</title>
+</head>
+<body>
+
+<header>
+    <h1>Filmes</h1>
+</header>
+
+<nav>
+    <a href="index.html">Início</a>
+    <a href="filmes.html">Filmes</a>
+    <a href="lancamentos.html">Lançamentos</a>
+    <a href="reviews.html">Reviews</a>
+    <a href="curiosidades.html">Curiosidades</a>
+    <a href="contato.html">Contato</a>
+</nav>
+
+<div class="container">
+
+    <div class="card">
+        <img src="https://br.web.img3.acsta.net/c_150_200/img/e4/08/e408b4986341b07eea82d5091e926178.jpg" alt="">
+        <h2>Five Nights At Freddy's 2</h2>
+        <p>é uma sequência de terror que expande a história dos jogos e do primeiro filme, mostrando novos e antigos animatrônicos em uma pizzaria melhorada, onde o novo guarda noturno, usando uma cabeça de Freddy vazia para enganá-los, precisa sobreviver por cinco noites, enquanto segredos sombrios sobre a Fazbear Entertainment e o passado de William Afton são revelados, especialmente envolvendo a jovem Abby.</p>
+    </div>
+
+    <div class="card">
+        <img src="https://br.web.img3.acsta.net/c_150_200/img/51/78/5178b7bf858cc76f05008d511067bb5c.jpg" alt="">
+        <h2>Filme 2</h2>
+        <p>Descrição do filme 2.</p>
+    </div>
+
+    <div class="card">
+        <h2>Filme 3</h2>
+        <p>Descrição do filme 3.</p>
+    </div>
+
+</div>
+
+<footer>© 2025 Mundo do Cinema</footer>
+
+</body>
+</html>
