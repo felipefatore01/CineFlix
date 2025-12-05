@@ -1,8 +1,9 @@
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="reviews2.css">
+    <link rel="stylesheet" href="reviews1.css">
     <title>Reviews</title>
 </head>
 <body>
@@ -23,18 +24,19 @@
 <div class="container">
 
     <div class="card">
-        <h2>Crítica de Filme 1</h2>
-        <p>Opinião e análise sobre o filme 1.</p>
+        <h2>FNAF 2 (2025) tenta crescer em lore, mas acaba tropeçando no próprio excesso.
+O visual e os animatrônicos continuam ótimos, mas o roteiro é confuso, mal estruturado e pouco envolvente. O terror quase não funciona, os personagens são fracos e a história parece pesada demais para o pouco que entrega.</h2>
+        <p>A parte visual até que me agradou bastante — os animatrônicos continuam incríveis e o clima dos cenários realmente lembra os jogos. Tem alguns momentos de tensão bem feitos e uns jumpscares que funcionam, então dá pra sentir aquela nostalgia de FNAF.</p>
     </div>
 
     <div class="card">
-        <h2>Crítica de Filme 2</h2>
-        <p>Opinião e análise sobre o filme 2.</p>
+        <h2>DPA 4 é um filme visualmente muito bonito e cheio de fantasia. O reino de Ondion é caprichado e a aventura é leve e divertida. Mas, ao mesmo tempo, achei a história exagerada na fantasia e meio superficial. No fim, é um filme legal para quem gosta de aventura e do universo DPA, mas não espere algo muito profundo.</h2>
+        <p>Eu achei DPA 4 divertido e bem feito visualmente. O mundo mágico é bonito e a aventura funciona, mas não é um filme profundo. É bom pra relaxar, curtir a fantasia e se divertir — especialmente se você já gosta de DPA. Não é perfeito, mas cumpre o que promete.</p>
     </div>
 
 </div>
 
-<footer>© 2025 Mundo do Cinema</footer>
+<footer>© 2025 Cineflix</footer>
 
 </body>
 </html>]
