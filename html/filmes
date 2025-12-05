@@ -1,8 +1,9 @@
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="filmes2.css">
+    <link rel="stylesheet" href="filmes1.css">
     <title>Filmes</title>
 </head>
 <body>
@@ -30,18 +31,19 @@
 
     <div class="card">
         <img src="https://br.web.img3.acsta.net/c_150_200/img/51/78/5178b7bf858cc76f05008d511067bb5c.jpg" alt="">
-        <h2>Filme 2</h2>
-        <p>Descrição do filme 2.</p>
+        <h2>D.P.A. 4 - O Fantástico Reino de Ondion</h2>
+        <p> é a quarta aventura cinematográfica dos Detetives do Prédio Azul, onde Mel e Zeca embarcam em uma missão perigosa para resgatar Max, que desapareceu misteriosamente em um mundo mágico repleto de magia, florestas encantadas, duendes e seres fantásticos, enfrentando vilões para salvar o Reino de Ondion e o amigo. .</p>
     </div>
 
     <div class="card">
-        <h2>Filme 3</h2>
-        <p>Descrição do filme 3.</p>
+        <img src="https://br.web.img3.acsta.net/c_150_200/img/5d/8d/5d8dec7435062040559588373a30c431.jpg" alt="">
+        <h2>Soldado de chumbo</h2>
+        <p>é um filme de ação de 2025 sobre Nash Cavanaugh (Scott Eastwood), um ex-soldado recrutado para se infiltrar em um culto perigoso liderado por Bokushi (Jamie Foxx), que usa ex-veteranos, oferecendo propósito, mas se tornando uma ameaça, forçando Nash a confrontar seu passado ao lado do agente Emmanuel Ashburn (Robert De Niro) para desmantelar o grupo.</p>
     </div>
 
 </div>
 
-<footer>© 2025 Mundo do Cinema</footer>
+<footer>© 2025 CineFlix</footer>
 
 </body>
 </html>
