@@ -1,8 +1,9 @@
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="lançamentos.css">
+    <link rel="stylesheet" href="lançamentos1.css">
     <title>Lançamentos</title>
 </head>
 <body>
@@ -23,18 +24,20 @@
 <div class="container">
 
     <div class="card">
-        <h2>Filme Novo 1</h2>
-        <p>Descrição do lançamento 1.</p>
+        <img src="https://br.web.img3.acsta.net/c_150_200/img/e4/08/e408b4986341b07eea82d5091e926178.jpg" alt="">
+        <h2>Five Nights At Freddy's 2</h2>
+        <p>é uma popular franquia de jogos de terror e sobrevivência onde você é um segurança noturno em uma pizzaria infantil (Freddy Fazbear's Pizza), que precisa sobreviver por cinco noites contra animatrônicos assustadores (Freddy, Bonnie, Chica, Foxy) que ganham vida e tentam te atacar após o horário de fechamento, usando câmeras, luzes e portas para se defender enquanto gerencia a energia limitada. </p>
     </div>
 
     <div class="card">
-        <h2>Filme Novo 2</h2>
-        <p>Descrição do lançamento 2.</p>
+        <img src="https://br.web.img3.acsta.net/c_150_200/img/51/78/5178b7bf858cc76f05008d511067bb5c.jpg" alt="">
+        <h2>D.P.A. 4 - O Fantástico Reino de Ondion</h2>
+        <p> é a quarta aventura cinematográfica dos Detetives do Prédio Azul, onde Mel e Zeca embarcam em uma missão perigosa para resgatar Max, que desapareceu misteriosamente em um mundo mágico repleto de magia, florestas encantadas, duendes e seres fantásticos, enfrentando vilões para salvar o Reino de Ondion e o amigo. </p>
     </div>
 
 </div>
 
-<footer>© 2025 Mundo do Cinema</footer>
+<footer>© 2025 CineFlix</footer>
 
 </body>
 </html>
