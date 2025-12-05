@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="lançamentos.css">
+    <title>Lançamentos</title>
+</head>
+<body>
+
+<header>
+    <h1>Lançamentos</h1>
+</header>
+
+<nav>
+    <a href="index.html">Início</a>
+    <a href="filmes.html">Filmes</a>
+    <a href="lancamentos.html">Lançamentos</a>
+    <a href="reviews.html">Reviews</a>
+    <a href="curiosidades.html">Curiosidades</a>
+    <a href="contato.html">Contato</a>
+</nav>
+
+<div class="container">
+
+    <div class="card">
+        <h2>Filme Novo 1</h2>
+        <p>Descrição do lançamento 1.</p>
+    </div>
+
+    <div class="card">
+        <h2>Filme Novo 2</h2>
+        <p>Descrição do lançamento 2.</p>
+    </div>
+
+</div>
+
+<footer>© 2025 Mundo do Cinema</footer>
+
+</body>
+</html>
