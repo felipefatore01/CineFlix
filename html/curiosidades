@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="curiosidades.css">
+    <title>Curiosidades</title>
+</head>
+<body>
+
+<header>
+    <h1>Curiosidades</h1>
+</header>
+
+nav>
+    <a href="index.html">Início</a>
+    <a href="filmes.html">Filmes</a>
+    <a href="lancamentos.html">Lançamentos</a>
+    <a href="reviews.html">Reviews</a>
+    <a href="curiosidades.html">Curiosidades</a>
+    <a href="contato.html">Contato</a>
+</nav>
+
+<div class="container">
+
+    <div class="card">
+        <h2>Curiosidade 1</h2>
+        <p>Fato interessante sobre cinema.</p>
+    </div>
+
+    <div class="card">
+        <h2>Curiosidade 2</h2>
+        <p>Outro fato interessante.</p>
+    </div>
+
+</div>
+
+<footer>© 2025 Mundo do Cinema</footer>
+
+</body>
+</html>
