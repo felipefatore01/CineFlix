@@ -1,8 +1,9 @@
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="contatos2.css">
+    <link rel="stylesheet" href="contatos1.css">
     <title>Contato</title>
 </head>
 <body>
@@ -23,12 +24,12 @@
 <div class="container">
     <div class="card">
         <h2>Fale Conosco</h2>
-        <p>Email: contato@mundodocinema.com</p>
-        <p>Instagram: @mundodocinema</p>
+        <p>Email: contato@CineFlix.com</p>
+        <p>Instagram: @CineFlix</p>
     </div>
 </div>
 
-<footer>© 2025 Mundo do Cinema</footer>
+<footer>© 2025 CineFlix</footer>
 
 </body>
 </html>
